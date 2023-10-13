@@ -1,4 +1,4 @@
-I am Mohayemin, a software engineer, currently doing a PhD at the University of Alberta (Software Maintenance and Reuse (SMR) research group)[https://github.com/ualberta-smr].
+I am Mohayemin, a software engineer, currently doing a PhD at the University of Alberta [Software Maintenance and Reuse research group](https://github.com/ualberta-smr).
 <!--
 **mohayemin/mohayemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
