@@ -1,4 +1,6 @@
 I am Mohayemin, a software engineer, currently doing a PhD at the University of Alberta [Software Maintenance and Reuse research group](https://github.com/ualberta-smr).
+My research is in library migration, that is, helping developers to replace one library with another in their applications.
+
 <!--
 **mohayemin/mohayemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
